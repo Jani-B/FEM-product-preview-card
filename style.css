@@ -108,11 +108,6 @@
   background-repeat: no-repeat;
 }
 
-.add-to-cart a {
-  text-decoration: none;
-  color: var(--White);
-}
-
 .montserrat-500 {
   font-family: "Montserrat", sans-serif;
   font-optical-sizing: auto;
